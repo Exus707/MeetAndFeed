@@ -1,8 +1,8 @@
-# Tinder App Flutter
+# Meet & Feed
 ![HeaderImage](github_images/logo.png) 
 
 ## Introduction
-This is a demo application built with the goal to learn about Flutter and to create a fun application.
+This is an tinder-like app for finding duo's and even a relationship for league players!
 
 Tested on Android only.
 
