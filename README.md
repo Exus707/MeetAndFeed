@@ -1,5 +1,5 @@
 # Tinder App Flutter
-![HeaderImage](github_images/header.jpeg) 
+![HeaderImage](github_images/logo.png) 
 
 ## Introduction
 This is a demo application built with the goal to learn about Flutter and to create a fun application.
