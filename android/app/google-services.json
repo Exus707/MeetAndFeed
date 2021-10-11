@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967835081434",
+    "project_id": "meet-and-feed-c1abd",
+    "storage_bucket": "meet-and-feed-c1abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967835081434:android:fc456fd034c84a68d623e3",
+        "android_client_info": {
+          "package_name": "com.meedandfeed_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967835081434-3dqol1p5j1ebnqp1qgv7grl13nf2jnie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWmCVYq_U9buTotLO4MlQ7IWbnAc2nFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967835081434-3dqol1p5j1ebnqp1qgv7grl13nf2jnie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
