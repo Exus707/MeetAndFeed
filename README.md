@@ -35,6 +35,16 @@ Flutter, Dart
 
 **Firebase:** Storing user info, chats, images
 
+## To-do List
+
+**Premium User:** Able to have liking priority, free super likes, send messages when giving super likes and seeing all the likes received.
+
+**Profile incrementations:** Elo, main lane, main champion and personal distance to other users.
+
+**Chat screen:** Like messages and reply.
+
+**General:** Phone number authentication, UI colors
+
 
 
 
